@@ -6,6 +6,9 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>my-app</name>
+  
+  <!--Demo on github webhook-->
+  
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
